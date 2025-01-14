@@ -2,8 +2,8 @@
 
 |   | Available | Last Update |
 | ------------- | ------------- | ------------ |
-| Exams | Yes | 2024 |
-| Homework  | Yes  | 2019 |
+| Exams | Yes | 2025 |
+| Homework  | Yes  | 2025 |
 | Notes  | Yes  | 2023 | 
 | Slides | Yes | 2021 |
 
